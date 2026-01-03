@@ -1,0 +1,69 @@
+00:00:00.003862 main     VirtualBox COM Server 7.2.4 r170995 win.amd64 (Oct 17 2025 12:31:09) release log
+00:00:00.003867 main     Log opened 2025-11-20T08:30:57.194630800Z
+00:00:00.003867 main     Build Type: release
+00:00:00.003874 main     OS Product: Windows 10
+00:00:00.003947 main     OS Release: 10.0.19045.6466
+00:00:00.003948 main     OS Service Pack: 
+00:00:00.191966 main     DMI Product Name: Latitude 3450
+00:00:00.203897 main     DMI Product Version: 
+00:00:00.203907 main     Firmware type: UEFI
+00:00:00.204366 main     Secure Boot: Enabled
+00:00:00.204378 main     Host RAM: 7876MB (7.6GB) total, 2575MB (2.5GB) available
+00:00:00.204387 main     Executable: C:\Program Files\Oracle\VirtualBox\VBoxSVC.exe
+00:00:00.204388 main     Process ID: 7356
+00:00:00.204388 main     Package type: WINDOWS_64BITS_GENERIC
+00:00:00.204390 main     Windows Features:
+00:00:00.204391 main       Core Isolation (Memory Integrity): Not supported
+00:00:00.266905          VirtualBox: object creation starts
+00:00:00.267156          Home directory: 'C:\Users\consort\.VirtualBox'
+00:00:00.269180          Installed Drivers:
+00:00:00.275453            C:\Windows\system32\DRIVERS\VBoxNetLwf.sys (Version: 7.2.4.20995)
+00:00:00.276398            C:\Windows\system32\DRIVERS\VBoxUSBMon.sys (Version: 7.2.4.20995)
+00:00:00.276928            C:\Windows\system32\DRIVERS\VBoxSup.sys (Version: 7.2.4.20995)
+00:00:00.278299            C:\Windows\system32\DRIVERS\VBoxNetAdp6.sys (Version: 7.2.4.20995)
+00:00:00.314809          Loading settings file "C:\Users\consort\.VirtualBox\VirtualBox.xml" with version "1.12-windows"
+00:00:00.318201          usbLibGetDevices: Starting USB device enumeration
+00:00:00.353882          Getting USB descriptor (id 0) failed (dwErr=31) on hub USB#ROOT_HUB30#4&3391c1d0&0&0#{f18a0e88-c30c-11d0-8815-00a0c906bed8} port 6
+00:00:00.357589          usbLibGetDevices: Found 3 USB devices, 0 captured
+00:00:00.357702          USB: Unknown USB device detected (idVendor: 0x0bda, idProduct: 0x5584)
+00:00:00.357734          USB: Unknown USB device detected (idVendor: 0x8087, idProduct: 0x0033)
+00:00:00.528904          HostDnsMonitor: initializing
+00:00:00.536757          HostDnsMonitor: updating information
+00:00:00.536791          HostDnsMonitor: old information
+00:00:00.536791            no server entries
+00:00:00.536797            no domain set
+00:00:00.536797            no search string entries
+00:00:00.536797          HostDnsMonitor: new information
+00:00:00.536798            server 1: 8.8.8.8
+00:00:00.536799            server 2: 8.8.4.4
+00:00:00.536800            no domain set
+00:00:00.536801            no search string entries
+00:00:00.581892          VD: VDInit finished with VINF_SUCCESS
+00:00:00.583068          Platform architecture set to 'x86'
+00:00:00.583494          Loading settings file "C:\Users\consort\VirtualBox VMs\ubantu\ubantu.vbox" with version "1.19-windows"
+00:00:00.583788          Platform architecture set to 'x86'
+00:00:00.584398          VirtualBox: object created
+00:00:00.752881          Launched VM: 1073303664 pid: 22100 (0x5654) frontend: GUI/Qt name: ubantu
+00:00:06.478673          Platform architecture set to 'x86'
+00:00:16.543977          ERROR [COM]: aRC=VBOX_E_INVALID_VM_STATE (0x80bb0002) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={The machine is not mutable or saved (state is Restoring)}, preserve=false aResultDetail=0
+00:00:17.177114          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:17.177584          ERROR [COM]: aRC=VBOX_E_OBJECT_NOT_FOUND (0x80bb0001) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Property 'CRYPT/KeyId' does not exist}, preserve=false aResultDetail=0
+00:00:17.178213          HostDnsMonitorProxy::GetDomainName: no domain set
+00:00:17.178277          HostDnsMonitorProxy::GetNameServers:
+00:00:17.178283            name server 1: 8.8.8.8
+00:00:17.178341            name server 2: 8.8.4.4
+00:00:17.178397          HostDnsMonitorProxy::GetSearchStrings:
+00:00:17.178404            no search string entries
+00:00:23.098841          Saving settings file "C:\Users\consort\VirtualBox VMs\ubantu\ubantu.vbox" with version "1.19-windows"
+00:00:23.102346          Finished saving settings file "C:\Users\consort\VirtualBox VMs\ubantu\ubantu.vbox"
+00:00:30.310394          Saving settings file "C:\Users\consort\VirtualBox VMs\ubantu\ubantu.vbox" with version "1.19-windows"
+00:00:30.316371          Finished saving settings file "C:\Users\consort\VirtualBox VMs\ubantu\ubantu.vbox"
+00:00:30.389825          Saving settings file "C:\Users\consort\VirtualBox VMs\ubantu\ubantu.vbox" with version "1.19-windows"
+00:00:30.393494          Finished saving settings file "C:\Users\consort\VirtualBox VMs\ubantu\ubantu.vbox"
+00:00:30.692130          ERROR [COM]: aRC=E_INVALIDARG (0x80070057) aIID={e36a5081-a82a-40bd-9e4e-42a44d6ce50f} aComponent={SessionMachine} aText={Properties with TRANSIENT or TRANSRESET flag cannot be set or modified if VM is not running}, preserve=false aResultDetail=0
+00:00:39.398767 main     VirtualBox: object deletion starts
+00:00:39.400167 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={7d510820-a678-4730-a862-818dcd3fbed0} aComponent={MediumWrap} aText={Medium 'C:\Users\consort\VirtualBox VMs\ubantu\ubantu.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:00:39.405274 main     HostDnsMonitor: shutting down ...
+00:00:39.405401 main     HostDnsMonitor: shut down
+00:00:39.418390 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={2ce10519-3c09-45d8-a12d-e887786146b7} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:00:39.418774 main     VirtualBox: object deleted
