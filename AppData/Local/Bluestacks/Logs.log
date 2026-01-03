@@ -1,0 +1,12 @@
+﻿2025-07-02 11:50:17.622 7008:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2025-07-02 11:50:17.629 7008:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2025-07-02 11:50:18.311 7008:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country":"IN","latlong":"28.681455,77.222790"}
+
+2025-07-02 11:50:18.379 7008:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2025-07-02 11:50:18.380 7008:00000001 (BlueStacksInstaller) INFO: Using Nowgg cloud host: https://wallet.now.gg
+2025-07-02 11:50:23.118 18832:00000001 (Unknown) INFO: Finding closest locale match to en-IN
+2025-07-02 11:50:23.119 18832:00000001 (BlueStacksInstaller) INFO: Match found by ISO language name: en-US
+2025-07-02 11:50:23.525 18832:00000001 (BlueStacksInstaller) INFO: UserCountry resp: {"country":"IN","latlong":"28.681455,77.222790"}
+
+2025-07-02 11:50:23.537 18832:00000001 (BlueStacksInstaller) INFO: Using cloud host: https://cloud.bluestacks.com
+2025-07-02 11:50:23.537 18832:00000001 (BlueStacksInstaller) INFO: Using Nowgg cloud host: https://wallet.now.gg

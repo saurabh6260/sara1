@@ -1,0 +1,167 @@
+﻿2025-07-02 11:50:18.568 7008:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2025-07-02 11:50:18.569 7008:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2025-07-02 11:50:18.629 7008:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2025-07-02 11:50:18.630 7008:00000001 (BlueStacksInstaller) INFO: Launching C:\Users\consort\AppData\Local\Temp\7zS4567F9B2\:BlueStacksInstaller.exe "BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe"
+2025-07-02 11:50:18.630 7008:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2025-07-02 11:50:18.677 7008:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe
+2025-07-02 11:50:18.677 7008:00000006 (BlueStacksInstaller) INFO: Parsing: f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=
+2025-07-02 11:50:18.691 7008:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2025-07-02 11:50:18.692 7008:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2025-07-02 11:50:18.700 7008:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2025-07-02 11:50:18.713 7008:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2025-07-02 11:50:18.720 7008:00000006 (BlueStacksInstaller) INFO: RunCmd: Starting: C:\Users\consort\AppData\Local\Temp\7zS4567F9B2\HD-CheckCpu.exe --cmd checkHypervEnabled
+2025-07-02 11:50:19.573 7008:00000006 (BlueStacksInstaller) INFO: RunCmd for pid: 17560, exited with ExitCode: 0 
+2025-07-02 11:50:19.574 7008:00000006 (BlueStacksInstaller) INFO: Hyperv state of the machine: enabled
+2025-07-02 11:50:19.578 7008:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Pie64
+2025-07-02 11:50:19.579 7008:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Pie64
+2025-07-02 11:50:19.580 7008:00000006 (BlueStacksInstaller) INFO: Campaign: f621293566cb76272407764cc2f83caf, AppName: , Image: Pie64, AbiValue: 15
+2025-07-02 11:50:19.627 7008:00000006 (BlueStacksInstaller) INFO: Generating new machine id: 70818634-c037-40e9-b0c7-387cef8e6a5e, IsNewMachineIdCreated value: 1
+2025-07-02 11:50:19.635 7008:00000006 (BlueStacksInstaller) WARNING: Failed to set registry value at Software\BlueStacksInstaller for MachineID:70818634-c037-40e9-b0c7-387cef8e6a5e
+2025-07-02 11:50:19.638 7008:00000006 (BlueStacksInstaller) WARNING: Failed to set registry value at Software\BlueStacksInstaller for VersionMachineId_5.22.86.1001:393ea918-ab59-484f-ad16-42c16db2b79b
+2025-07-02 11:50:19.639 7008:00000006 (BlueStacksInstaller) INFO: Sending event mi_launched
+2025-07-02 11:50:22.327 7008:00000006 (BlueStacksInstaller) INFO: Response for event mi_launched: {"fle_obj": {"app_url": "", "campaign_name": "homepage-dl-button-en", "exit_utm_campaign": "bsx-install-button-home-en", "app_icon_url": "", "app_pkg": "", "app_name": "", "promoter_id": "", "fle_tag": "", "incompatible": "false", "bsx_data": "{}", "transaction_id": "754ac8a6-0b17-4772-a7a5-e3d0f3786c6c"}}
+2025-07-02 11:50:23.548 18832:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2025-07-02 11:50:23.548 18832:00000001 (BlueStacksInstaller) INFO: Successfully populated en-US strings
+2025-07-02 11:50:23.559 18832:00000001 (BlueStacksInstaller) INFO: Application Main
+2025-07-02 11:50:23.559 18832:00000001 (BlueStacksInstaller) INFO: arg:::::BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe
+2025-07-02 11:50:23.561 18832:00000006 (BlueStacksInstaller) INFO: Old BGP version: 
+2025-07-02 11:50:23.561 18832:00000006 (BlueStacksInstaller) INFO: Arabica version: 
+2025-07-02 11:50:23.563 18832:00000006 (BlueStacksInstaller) INFO: Parent FileName: BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe
+2025-07-02 11:50:23.563 18832:00000006 (BlueStacksInstaller) INFO: Parsing: f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=
+2025-07-02 11:50:23.565 18832:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2025-07-02 11:50:23.565 18832:00000006 (BlueStacksInstaller) INFO: Installed images: 
+2025-07-02 11:50:23.566 18832:00000006 (BlueStacksInstaller) INFO: Getting installed images from conf
+2025-07-02 11:50:23.567 18832:00000006 (BlueStacksInstaller) INFO: Installed images with abi: 
+2025-07-02 11:50:23.568 18832:00000006 (BlueStacksInstaller) INFO: RunCmd: Starting: C:\Users\consort\AppData\Local\Temp\7zS4567F9B2\HD-CheckCpu.exe --cmd checkHypervEnabled
+2025-07-02 11:50:23.597 18832:00000006 (BlueStacksInstaller) INFO: RunCmd for pid: 10224, exited with ExitCode: 0 
+2025-07-02 11:50:23.598 18832:00000006 (BlueStacksInstaller) INFO: Hyperv state of the machine: enabled
+2025-07-02 11:50:23.598 18832:00000006 (BlueStacksInstaller) INFO: Updating DefaultImageName to Pie64
+2025-07-02 11:50:23.598 18832:00000006 (BlueStacksInstaller) INFO: Updating ImageToLaunch to Pie64
+2025-07-02 11:50:23.598 18832:00000006 (BlueStacksInstaller) INFO: Campaign: f621293566cb76272407764cc2f83caf, AppName: , Image: Pie64, AbiValue: 15
+2025-07-02 11:50:23.602 18832:00000006 (BlueStacksInstaller) INFO: Getting machine id from backup: 70818634-c037-40e9-b0c7-387cef8e6a5e, IsNewMachineIdCreated value: 1
+2025-07-02 11:50:23.603 18832:00000006 (BlueStacksInstaller) INFO: Sending event mi_admin_launched
+2025-07-02 11:50:23.617 18832:00000001 (BlueStacksInstaller) INFO: Application OnStartup
+2025-07-02 11:50:24.188 18832:0000000C (BlueStacksInstaller) INFO: Get version & hash for raw mode compatible build
+2025-07-02 11:50:24.239 18832:00000006 (BlueStacksInstaller) INFO: Response for event mi_admin_launched: {"discord_url": "https://discord.gg/UnXV7taVs4", "discord_auto_launch": true, "show_discord_button": true}
+2025-07-02 11:50:24.993 18832:0000000C (BlueStacksInstaller) INFO: Checking for supported OS
+2025-07-02 11:50:24.994 18832:0000000C (BlueStacksInstaller) INFO: Operating system details: Windows 10 64-bit
+2025-07-02 11:50:24.994 18832:0000000C (BlueStacksInstaller) INFO: OS Info: Name: 10, Service Pack: , Arch: 64-bit, Ver: 10.019045
+2025-07-02 11:50:24.994 18832:0000000C (BlueStacksInstaller) INFO: Checking if virtualization is enabled
+2025-07-02 11:50:24.994 18832:0000000C (BlueStacksInstaller) INFO: Checking SSE4 Available
+2025-07-02 11:50:24.994 18832:0000000C (BlueStacksInstaller) INFO: RunCmd: Starting: C:\Users\consort\AppData\Local\Temp\7zS4567F9B2\HD-CheckCpu.exe --cmd checkSSE4
+2025-07-02 11:50:25.024 18832:0000000C (BlueStacksInstaller) INFO: RunCmd for pid: 13848, exited with ExitCode: 1 
+2025-07-02 11:50:25.024 18832:0000000C (BlueStacksInstaller) INFO: Initializing mi
+2025-07-02 11:50:25.026 18832:0000000C (BlueStacksInstaller) INFO: Fetching bsx details
+2025-07-02 11:50:25.698 18832:0000000C (BlueStacksInstaller) INFO: Install response: {"url": "https://ak-build.bluestacks.com/public/app-player/windows/bsx/nxt/10.42.86.1001/d09eb56fc6784dfd875b0867a1dda1f6/BSX-Setup_10.42.86.1001.exe", "default_installation": "bsx,bs5", "bsx_version": "10.42.86.1001", "default_launch": "bs5", "update_url": "https://ak-build.bluestacks.com/public/app-player/windows/bsx/nxt/10.42.86.1001/d09eb56fc6784dfd875b0867a1dda1f6/BSX-Setup_10.42.86.1001.exe", "cdn_base_path": "https://ak-build.bluestacks.com/public/app-player"}
+2025-07-02 11:50:25.701 18832:0000000C (BlueStacksInstaller) INFO: Getting installed images from conf
+2025-07-02 11:50:25.702 18832:0000000C (BlueStacksInstaller) INFO: Installed images: 
+2025-07-02 11:50:25.702 18832:0000000C (BlueStacksInstaller) INFO: Getting installed images from conf
+2025-07-02 11:50:25.702 18832:0000000C (BlueStacksInstaller) INFO: Installed images: 
+2025-07-02 11:50:25.702 18832:0000000C (BlueStacksInstaller) INFO: Getting installed images from conf
+2025-07-02 11:50:25.702 18832:0000000C (BlueStacksInstaller) INFO: Installed images with abi: 
+2025-07-02 11:50:25.702 18832:0000000C (BlueStacksInstaller) INFO: DetectGuestImagesToDownload initializing
+2025-07-02 11:50:25.702 18832:0000000C (BlueStacksInstaller) INFO: Installation type is fresh: True
+2025-07-02 11:50:25.702 18832:0000000C (BlueStacksInstaller) INFO: Image List to be downloaded: Pie64
+2025-07-02 11:50:26.289 18832:0000000C (BlueStacksInstaller) INFO: launcher feature api response: {"wallet": {"location": ["topbar"]}, "web3": {"location": ["sidebar"]}, "nowbux": {"location": ["topbar"]}, "loginskip": {"location": ""}}
+2025-07-02 11:50:26.292 18832:0000000C (BlueStacksInstaller) INFO: Initialization completed
+2025-07-02 11:50:26.293 18832:00000001 (BlueStacksInstaller) INFO: Returning PDDir: C:\ProgramData\BlueStacks_nxt
+2025-07-02 11:50:26.293 18832:00000001 (BlueStacksInstaller) INFO: Returning PFDir: C:\Program Files\BlueStacks_nxt
+2025-07-02 11:50:26.429 18832:00000001 (BlueStacksInstaller) INFO: Showing mainwindow
+2025-07-02 11:50:29.793 18832:00000001 (BlueStacksInstaller) INFO: Device ID: 0
+2025-07-02 11:50:29.793 18832:00000001 (BlueStacksInstaller) INFO: Media Type: 4
+2025-07-02 11:50:29.794 18832:00000001 (BlueStacksInstaller) INFO: Checking if media type ssd for drive: C:\
+2025-07-02 11:50:29.798 18832:00000001 (BlueStacksInstaller) INFO: The physical drive number is: 0
+2025-07-02 11:50:29.905 18832:00000001 (BlueStacksInstaller) INFO: Checking for physical memory
+2025-07-02 11:50:29.938 18832:00000001 (BlueStacksInstaller) INFO: Available: 7876 MB, Required: 1024 MB
+2025-07-02 11:50:29.963 18832:00000001 (BlueStacksInstaller) INFO: HDD space available InstallDir: 126723 MB
+2025-07-02 11:50:29.967 18832:00000001 (BlueStacksInstaller) INFO: checking path:C:\ProgramData\BlueStacks_nxt and attr:-1..
+2025-07-02 11:50:29.968 18832:00000001 (BlueStacksInstaller) INFO: checking path:C:\ProgramData and attr:Hidden, Directory, NotContentIndexed..
+2025-07-02 11:50:29.968 18832:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\consort\AppData\Local\Temp\ and attr:Directory..
+2025-07-02 11:50:29.968 18832:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\consort\AppData\Local\Temp and attr:Directory..
+2025-07-02 11:50:29.968 18832:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\consort\AppData\Local and attr:Directory..
+2025-07-02 11:50:29.968 18832:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\consort\AppData and attr:Hidden, Directory..
+2025-07-02 11:50:29.968 18832:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users\consort and attr:Directory..
+2025-07-02 11:50:29.969 18832:00000001 (BlueStacksInstaller) INFO: checking path:C:\Users and attr:ReadOnly, Directory..
+2025-07-02 11:50:29.969 18832:00000001 (BlueStacksInstaller) INFO: Data and InstallDir same: True
+2025-07-02 11:50:29.969 18832:00000001 (BlueStacksInstaller) INFO: Space required InstallDir: 1200 MB
+2025-07-02 11:50:29.969 18832:00000001 (BlueStacksInstaller) INFO: Space required DataDir: 5920 MB
+2025-07-02 11:50:29.969 18832:00000001 (BlueStacksInstaller) INFO: Space required total: 7120
+2025-07-02 11:50:29.969 18832:00000001 (BlueStacksInstaller) INFO: Space available: 126723 MB
+2025-07-02 11:50:29.973 18832:00000001 (BlueStacksInstaller) INFO: Temp download path: C:\Users\consort\AppData\Local\Temp\BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe
+2025-07-02 11:50:29.973 18832:00000001 (BlueStacksInstaller) INFO: Installer file path: C:\Users\consort\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe
+2025-07-02 11:50:29.974 18832:00000018 (BlueStacksInstaller) INFO: Will download images later: Pie64
+2025-07-02 11:50:29.974 18832:00000018 (BlueStacksInstaller) INFO: Starting downloader of BSX
+2025-07-02 11:50:29.977 18832:00000018 (BlueStacksInstaller) INFO: Downloading BSX installer at C:\Users\consort\AppData\Local\BlueStacksSetup\BSX-Setup-5.22.86.1001_nxt.exe
+2025-07-02 11:50:31.443 18832:00000008 (BlueStacksInstaller) INFO: LastRecorded: 0, Downloaded: 10525672
+2025-07-02 11:50:36.457 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 10525672, Downloaded: 40541247
+2025-07-02 11:50:41.461 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 40541247, Downloaded: 68643364
+2025-07-02 11:50:46.470 18832:0000000A (BlueStacksInstaller) INFO: LastRecorded: 68643364, Downloaded: 94546126
+2025-07-02 11:50:48.923 18832:00000016 (BlueStacksInstaller) INFO: Starting installation of BSX
+2025-07-02 11:50:48.925 18832:00000016 (BlueStacksInstaller) INFO: C:\Users\consort\AppData\Local\BlueStacksSetup\BSX-Setup-5.22.86.1001_nxt.exe -s
+2025-07-02 11:50:48.931 18832:00000018 (BlueStacksInstaller) INFO: Downloading Pie64 at C:\ProgramData\Pie64_5.22.86.1001.exe
+2025-07-02 11:50:51.479 18832:00000009 (BlueStacksInstaller) INFO: LastRecorded: 94546126, Downloaded: 15045794
+2025-07-02 11:50:56.480 18832:00000008 (BlueStacksInstaller) INFO: LastRecorded: 15045794, Downloaded: 35280425
+2025-07-02 11:51:01.483 18832:00000009 (BlueStacksInstaller) INFO: LastRecorded: 35280425, Downloaded: 60136777
+2025-07-02 11:51:06.319 18832:00000016 (BlueStacksInstaller) INFO: C:\Users\consort\AppData\Local\BlueStacksSetup\BSX-Setup-5.22.86.1001_nxt.exe exited with ExitCode: 0
+2025-07-02 11:51:06.490 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 60136777, Downloaded: 92441104
+2025-07-02 11:51:11.497 18832:0000000A (BlueStacksInstaller) INFO: LastRecorded: 92441104, Downloaded: 122452413
+2025-07-02 11:51:16.509 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 122452413, Downloaded: 143696999
+2025-07-02 11:51:21.521 18832:00000008 (BlueStacksInstaller) INFO: LastRecorded: 143696999, Downloaded: 163320447
+2025-07-02 11:51:26.522 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 163320447, Downloaded: 187504919
+2025-07-02 11:51:31.533 18832:00000009 (BlueStacksInstaller) INFO: LastRecorded: 187504919, Downloaded: 205976087
+2025-07-02 11:51:36.533 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 205976087, Downloaded: 237087405
+2025-07-02 11:51:41.546 18832:0000000A (BlueStacksInstaller) INFO: LastRecorded: 237087405, Downloaded: 264362535
+2025-07-02 11:51:46.559 18832:00000008 (BlueStacksInstaller) INFO: LastRecorded: 264362535, Downloaded: 282634271
+2025-07-02 11:51:51.578 18832:0000000A (BlueStacksInstaller) INFO: LastRecorded: 282634271, Downloaded: 298821047
+2025-07-02 11:51:56.590 18832:0000000A (BlueStacksInstaller) INFO: LastRecorded: 298821047, Downloaded: 323123511
+2025-07-02 11:52:01.593 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 323123511, Downloaded: 350422964
+2025-07-02 11:52:06.604 18832:00000019 (BlueStacksInstaller) INFO: LastRecorded: 350422964, Downloaded: 377889759
+2025-07-02 11:52:11.614 18832:0000000A (BlueStacksInstaller) INFO: LastRecorded: 377889759, Downloaded: 406512807
+2025-07-02 11:52:16.622 18832:00000008 (BlueStacksInstaller) INFO: LastRecorded: 406512807, Downloaded: 422923445
+2025-07-02 11:52:21.628 18832:00000008 (BlueStacksInstaller) INFO: LastRecorded: 422923445, Downloaded: 444249277
+2025-07-02 11:52:26.635 18832:00000019 (BlueStacksInstaller) INFO: LastRecorded: 444249277, Downloaded: 460549879
+2025-07-02 11:52:31.651 18832:00000009 (BlueStacksInstaller) INFO: LastRecorded: 460549879, Downloaded: 481542095
+2025-07-02 11:52:36.666 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 481542095, Downloaded: 510873575
+2025-07-02 11:52:41.667 18832:00000009 (BlueStacksInstaller) INFO: LastRecorded: 510873575, Downloaded: 539228063
+2025-07-02 11:52:46.667 18832:0000000A (BlueStacksInstaller) INFO: LastRecorded: 539228063, Downloaded: 560272533
+2025-07-02 11:52:51.669 18832:00000008 (BlueStacksInstaller) INFO: LastRecorded: 560272533, Downloaded: 582555581
+2025-07-02 11:52:56.671 18832:00000009 (BlueStacksInstaller) INFO: LastRecorded: 582555581, Downloaded: 604883127
+2025-07-02 11:53:01.674 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 604883127, Downloaded: 629201975
+2025-07-02 11:53:03.975 18832:00000018 (BlueStacksInstaller) INFO: Download completed for Pie64
+2025-07-02 11:53:19.831 18832:00000018 (BlueStacksInstaller) INFO: Downloading full installer at C:\Users\consort\AppData\Local\Temp\BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe
+2025-07-02 11:53:21.701 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 629201975, Downloaded: 9731609
+2025-07-02 11:53:26.706 18832:00000019 (BlueStacksInstaller) INFO: LastRecorded: 9731609, Downloaded: 31615111
+2025-07-02 11:53:31.712 18832:00000009 (BlueStacksInstaller) INFO: LastRecorded: 31615111, Downloaded: 57534255
+2025-07-02 11:53:36.725 18832:00000008 (BlueStacksInstaller) INFO: LastRecorded: 57534255, Downloaded: 82020248
+2025-07-02 11:53:41.736 18832:00000008 (BlueStacksInstaller) INFO: LastRecorded: 82020248, Downloaded: 99530231
+2025-07-02 11:53:46.740 18832:0000000A (BlueStacksInstaller) INFO: LastRecorded: 99530231, Downloaded: 112105238
+2025-07-02 11:53:51.741 18832:00000007 (BlueStacksInstaller) INFO: LastRecorded: 112105238, Downloaded: 119092981
+2025-07-02 11:53:56.751 18832:0000000A (BlueStacksInstaller) INFO: LastRecorded: 119092981, Downloaded: 140573356
+2025-07-02 11:54:01.755 18832:00000019 (BlueStacksInstaller) INFO: LastRecorded: 140573356, Downloaded: 165930662
+2025-07-02 11:54:06.771 18832:00000009 (BlueStacksInstaller) INFO: LastRecorded: 165930662, Downloaded: 171305893
+2025-07-02 11:54:08.804 18832:00000018 (BlueStacksInstaller) INFO: MIsDownloading false
+2025-07-02 11:54:08.812 18832:0000000F (BlueStacksInstaller) INFO: Installer file moved from C:\Users\consort\AppData\Local\Temp\BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe to C:\Users\consort\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe
+2025-07-02 11:54:08.812 18832:0000000F (BlueStacksInstaller) INFO: Running Installer process C:\Users\consort\AppData\Local\BlueStacksSetup\BlueStacksInstaller_5.22.86.1001_native_f621293566cb76272407764cc2f83caf_MzsxNSwwOzUsMTsxNSw0OzE1LDU7MTU=.exe args :-versionMachineID=393ea918-ab59-484f-ad16-42c16db2b79b -machineID=70818634-c037-40e9-b0c7-387cef8e6a5e -pddir="C:\ProgramData\BlueStacks_nxt" -defaultImageName=Pie64 -imageToLaunch=Pie64 -isSSE4Available=1 -appToLaunch=bs5 -bsxVersion=10.42.86.1001 -country=IN -isWalletFeatureEnabled -discordUrl=https://discord.gg/UnXV7taVs4
+2025-07-02 11:54:09.170 18832:00000016 (BlueStacksInstaller) INFO: Nowgg_wallet install response: {"data":{"installer_dir_url":"https://ak-build.bluestacks.com/public/nowgg/wallet/windows/prod/3.0.9/x64","url":"https://ak-build.bluestacks.com/public/nowgg/wallet/windows/prod/3.0.9/x64/BlueStacksServicesSetup.exe"},"success":true}
+
+2025-07-02 11:54:09.171 18832:00000016 (BlueStacksInstaller) INFO: Downloading nowgg_wallet installer at C:\ProgramData\BlueStacksServicesSetup.exe
+2025-07-02 11:54:26.859 18832:00000016 (BlueStacksInstaller) INFO: wallet download completed
+2025-07-02 11:54:26.860 18832:00000016 (BlueStacksInstaller) INFO: Starting installation of nowgg_wallet, C:\ProgramData\BlueStacksServicesSetup.exe
+2025-07-02 11:56:11.833 18832:0000000F (BlueStacksInstaller) INFO: Full installer process finished with ExitCode: 5
+2025-07-02 11:56:11.833 18832:0000000F (BlueStacksInstaller) INFO: Cleaning temporary installer directory : C:\Users\consort\AppData\Local\BlueStacksSetup
+2025-07-02 11:56:11.844 18832:0000000F (BlueStacksInstaller) INFO: Is user upgrading AND installing new image: False
+2025-07-02 11:56:11.854 18832:00000016 (BlueStacksInstaller) INFO: Getting installed images from conf
+2025-07-02 11:56:11.854 18832:00000016 (BlueStacksInstaller) INFO: Reading bluestacks.conf
+2025-07-02 11:56:11.856 18832:00000016 (BlueStacksInstaller) INFO: Updating DefaultImageName to Pie64
+2025-07-02 11:56:11.856 18832:00000016 (BlueStacksInstaller) INFO: Installed images: Pie64
+2025-07-02 11:56:11.856 18832:00000016 (BlueStacksInstaller) INFO: Getting installed images from conf
+2025-07-02 11:56:11.856 18832:00000016 (BlueStacksInstaller) INFO: Reading bluestacks.conf
+2025-07-02 11:56:11.877 18832:00000016 (BlueStacksInstaller) INFO: Updating DefaultImageName to Pie64
+2025-07-02 11:56:11.877 18832:00000016 (BlueStacksInstaller) INFO: Installed images with abi: Pie64;15
+2025-07-02 11:56:12.155 18832:00000016 (BlueStacksInstaller) INFO: Getting instance name with specific image and abi from conf
+2025-07-02 11:56:12.155 18832:00000016 (BlueStacksInstaller) INFO: Reading bluestacks.conf
+2025-07-02 11:56:12.158 18832:00000016 (BlueStacksInstaller) INFO: In RunBlueStacks
+2025-07-02 11:56:12.158 18832:00000016 (BlueStacksInstaller) INFO: InstallDir: C:\Program Files\BlueStacks_nxt\
+2025-07-02 11:56:12.158 18832:00000016 (BlueStacksInstaller) INFO: C:\Program Files\BlueStacks_nxt\HD-Player.exe --instance Pie64 --cmd installApp --store "" --package "" --appname ""
+2025-07-02 11:56:12.218 18832:00000016 (BlueStacksInstaller) INFO: ExitApplication 0
+2025-07-02 11:56:14.313 7008:00000001 (BlueStacksInstaller) INFO: ExitApplication 0

@@ -1,0 +1,26 @@
+2025/12/16-13:22:18.966 27ec Reusing MANIFEST C:\Users\consort\AppData\Local\Cisco Packet Tracer\QtWebEngine\Default\IndexedDB\https_www.netacad.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/16-13:22:18.966 27ec Recovering log #19
+2025/12/16-13:22:18.967 27ec Reusing old log C:\Users\consort\AppData\Local\Cisco Packet Tracer\QtWebEngine\Default\IndexedDB\https_www.netacad.com_0.indexeddb.leveldb/000019.log 
+2025/12/16-13:24:28.009 ff8 Level-0 table #25: started
+2025/12/16-13:24:28.028 ff8 Level-0 table #25: 2852 bytes OK
+2025/12/16-13:24:28.029 ff8 Delete type=0 #19
+2025/12/16-13:24:28.030 ff8 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/16-13:24:30.016 3874 Level-0 table #27: started
+2025/12/16-13:24:30.025 3874 Level-0 table #27: 230 bytes OK
+2025/12/16-13:24:30.026 3874 Delete type=0 #24
+2025/12/16-13:24:30.026 3874 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x07\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 814 : 0
+2025/12/16-13:24:30.026 3874 Compacting 1@0 + 1@1 files
+2025/12/16-13:24:30.036 3874 Generated table #28@0: 3 keys, 208 bytes
+2025/12/16-13:24:30.036 3874 Compacted 1@0 + 1@1 files => 208 bytes
+2025/12/16-13:24:30.037 3874 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-13:24:30.038 3874 Delete type=2 #25
+2025/12/16-13:24:30.038 3874 Delete type=2 #27
+2025/12/16-13:24:30.038 3874 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x07\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 814 : 0 .. (end); will stop at (end)
+2025/12/16-13:24:30.038 3874 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x04' @ 765 : 1
+2025/12/16-13:24:30.038 3874 Compacting 1@1 + 1@2 files
+2025/12/16-13:24:30.047 3874 Generated table #29@1: 5 keys, 230 bytes
+2025/12/16-13:24:30.047 3874 Compacted 1@1 + 1@2 files => 230 bytes
+2025/12/16-13:24:30.048 3874 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/16-13:24:30.048 3874 Delete type=2 #22
+2025/12/16-13:24:30.048 3874 Delete type=2 #28
+2025/12/16-13:24:30.049 3874 Manual compaction at level-1 from '\x00\x00\x00\x00\x04' @ 765 : 1 .. (end); will stop at (end)

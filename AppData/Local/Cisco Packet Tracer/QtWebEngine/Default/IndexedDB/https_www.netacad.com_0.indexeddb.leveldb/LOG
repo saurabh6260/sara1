@@ -1,0 +1,26 @@
+2025/12/16-14:08:09.436 2778 Reusing MANIFEST C:\Users\consort\AppData\Local\Cisco Packet Tracer\QtWebEngine\Default\IndexedDB\https_www.netacad.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/16-14:08:09.436 2778 Recovering log #26
+2025/12/16-14:08:09.436 2778 Reusing old log C:\Users\consort\AppData\Local\Cisco Packet Tracer\QtWebEngine\Default\IndexedDB\https_www.netacad.com_0.indexeddb.leveldb/000026.log 
+2025/12/16-14:08:30.619 1784 Level-0 table #32: started
+2025/12/16-14:08:30.634 1784 Level-0 table #32: 2317 bytes OK
+2025/12/16-14:08:30.636 1784 Delete type=0 #26
+2025/12/16-14:08:30.637 1784 Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/12/16-14:08:32.625 1784 Level-0 table #34: started
+2025/12/16-14:08:32.641 1784 Level-0 table #34: 230 bytes OK
+2025/12/16-14:08:32.644 1784 Delete type=0 #31
+2025/12/16-14:08:32.644 1784 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x06\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 971 : 0
+2025/12/16-14:08:32.644 1784 Compacting 1@0 + 1@1 files
+2025/12/16-14:08:32.658 1784 Generated table #35@0: 3 keys, 208 bytes
+2025/12/16-14:08:32.658 1784 Compacted 1@0 + 1@1 files => 208 bytes
+2025/12/16-14:08:32.658 1784 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/12/16-14:08:32.659 1784 Delete type=2 #32
+2025/12/16-14:08:32.659 1784 Delete type=2 #34
+2025/12/16-14:08:32.660 1784 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x06\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 971 : 0 .. (end); will stop at (end)
+2025/12/16-14:08:32.660 1784 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x04' @ 922 : 1
+2025/12/16-14:08:32.660 1784 Compacting 1@1 + 1@2 files
+2025/12/16-14:08:32.672 1784 Generated table #36@1: 5 keys, 231 bytes
+2025/12/16-14:08:32.672 1784 Compacted 1@1 + 1@2 files => 231 bytes
+2025/12/16-14:08:32.673 1784 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/16-14:08:32.674 1784 Delete type=2 #29
+2025/12/16-14:08:32.674 1784 Delete type=2 #35
+2025/12/16-14:08:32.674 1784 Manual compaction at level-1 from '\x00\x00\x00\x00\x04' @ 922 : 1 .. (end); will stop at (end)
